@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"col-md-push",
+				"col-md-push-2 \tBootstrap 3 Class"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"cook",
+				"cookie_set"
+			],
+			[
+				"sect",
+				"set_cookie\tCI - Set Cookie"
+			],
+			[
+				"set_",
+				"set_cookie\tCI - Set Cookie"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"word",
+				"word_count3"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"glob",
+				"globals\t$GLOBALS['…']"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/Admin.php",
+			"settings":
+			{
+				"buffer_size": 1781,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/public/carousel.php",
+			"settings":
+			{
+				"buffer_size": 2056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/top_nav.php",
+			"settings":
+			{
+				"buffer_size": 14533,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/footer.php",
+			"settings":
+			{
+				"buffer_size": 3194,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/admin_base.php",
+			"settings":
+			{
+				"buffer_size": 1922,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"List Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INstal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/turban",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/controllers",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/core",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/models",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/public"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/meanmachine/Downloads/mo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/models/admin_access.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/controllers/Admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/dashboard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/top_nav.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/admin/admin_base.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/models/public_access.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/controllers/turban.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/core/MY_Controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/application/views/public/contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/assets/css/agency.min.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/turban/assets/css/agency.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/fil.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/Login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/views/login_form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/views/signup_form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/signup.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/models/ins.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/config/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/capt.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/config/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/dir.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/Date1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/system/core/Loader.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/views/form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/file.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/core/Mine_Controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/Admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/helpers/email_helper.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/system/helpers/form_helper.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php_basic/parse.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/views/cap.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/core/Admin_Controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/core/MY_Controller_Admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/config/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/helpers/capt.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/core/MY_Controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/Cookie1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php_basic/session/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php_basic/preg_match/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php_basic/strings/index.php",
+		"/Users/meanmachine/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/meanmachine/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/new_function.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/application/controllers/new.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/ci/base_class.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"assets",
+			"  \t<",
+			"src",
+			"footer",
+			"href",
+			"submit",
+			"fieldlabel",
+			"fieldname",
+			"href",
+			"js",
+			"form-control",
+			"all(",
+			"userdef",
+			"submit",
+			"redirect",
+			"username",
+			"Username",
+			"4",
+			"<div class=\"col-md-4\"></div>\n\t\t\t\t<div class=\"col-md-8\"></div>",
+			"insert",
+			"br",
+			">';",
+			"echo",
+			"captcha",
+			"img_width",
+			"fileperms",
+			"symbolic_permission",
+			"password",
+			"form_password",
+			"_parse_form_attributes",
+			"']",
+			"subclass_prefix",
+			"['`']",
+			"subclass_prefix",
+			"$config['subclass_prefix'] = 'Admin_';",
+			"';\n",
+			"autolo",
+			"autoload",
+			"autolo",
+			"MY_Controller",
+			"MY_Captcha",
+			"CI_ontroller",
+			"if(count($_COOKIE)>0)\n        {\n        \techo \"cookie set\";\n        }\n        else\n        {\n        \techo \"cookie has not been set\";\n        }",
+			"expression",
+			"();\n",
+			"name",
+			"$this->input->post('name');",
+			"');\n",
+			"&nbsp;",
+			"></",
+			"\t\t\t<",
+			"(",
+			"()",
+			"<div class=\"col-md-3\"><?php echo form_label(); ?></div>",
+			"();",
+			"\t\t</",
+			"\"></",
+			"<?php echo form_input('name', '', array('class'=>'form-control', 'placeholder'=>'First Name')); ?>",
+			"col-lg-4",
+			"lg",
+			"Name",
+			"First",
+			"?>\n",
+			"h1",
+			"RewriteEngine",
+			"New",
+			"<?",
+			"\\'",
+			"strip"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"></"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/Admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/public/carousel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2037,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/admin/top_nav.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13857,
+								13857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/admin/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2231,
+								2231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 524.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/admin/admin_base.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1922,
+								1922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "turban.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".css",
+				"assets/css/agency.min.css"
+			],
+			[
+				"loader",
+				"system/core/Loader.php"
+			],
+			[
+				"aut",
+				"application/config/autoload.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
